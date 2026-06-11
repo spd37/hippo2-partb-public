@@ -1,0 +1,12 @@
+# Environments & caches
+venv/
+__pycache__/
+*.pyc
+
+# Optuna / model / wandb artifacts (not needed in the showcase)
+*.db
+*.pth
+wandb/
+
+# The course dataset is NOT redistributed here (see README)
+Data2026.csv
