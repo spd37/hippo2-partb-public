@@ -1,6 +1,6 @@
 # HIPPO-2 Digital Twin — Neural-Network Virtual Sensors
 
-Coursework for **Special Ship Automation Systems 2026** (System Modeling Using Experimental
+Coursework for **Advancedd Ship Automation Systems 2026** (System Modeling Using Experimental
 Measurement Data), Laboratory of Marine Engineering, NTUA. Instructor: Assoc. Prof. G. Papalambrou.
 
 Data-driven **virtual sensors / digital twin** for the HIPPO-2 hybrid diesel–electric engine:
